@@ -20,7 +20,7 @@
 
 ### Marketplace
 
-You can find my icons on the [Zed Marketplace](https://marketplace.visualstudio.com/items?itemName=littensy.charmed-icons) or on the [Open VSX Registry](https://open-vsx.org/extension/littensy/charmed-icons).
+You can find my icons on the [Zed Marketplace](https://zed.dev/extensions?query=Charmed+Icons).
 
 ### Manual
 
