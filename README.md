@@ -20,13 +20,20 @@
 
 ### Marketplace
 
-You can find my icons on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=littensy.charmed-icons) or on the [Open VSX Registry](https://open-vsx.org/extension/littensy/charmed-icons).
+You can find my icons on the [Zed Marketplace](https://marketplace.visualstudio.com/items?itemName=littensy.charmed-icons) or on the [Open VSX Registry](https://open-vsx.org/extension/littensy/charmed-icons).
 
 ### Manual
 
-1. Download the `.vsix` file from the [Releases](https://github.com/littensy/charmed-icons/releases) page.
-2. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) in VS Code.
-3. Run the `Extensions: Install from VSIX...` command.
+1. Download the `zip` file from the [Releases](https://github.com/jmesrje/zed-charmed-icons/releases) page.
+2. Open the extensions tab (`Ctrl+Shift+X`) in Zed.
+3. Choose `Install Dev Extension` and select the unzipped release.
+4. Open the settings tab (`Ctrl+,`) and add the following:
+
+```json
+{
+  "icon_theme": "Charmed Icons",
+}
+```
 
 ## 🙌 Requests
 
