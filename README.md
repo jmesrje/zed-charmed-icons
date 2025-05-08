@@ -1,14 +1,12 @@
 <p align="center">
-  <p align="center">
-	<img src="assets/icon.png" alt="Logo" width="128" />
-  </p>
   <h1 align="center"><b>Charmed Icons</b></h1>
+  <p align="center"><b>fork by jmesrje, icons by littensy</b></p>
 </p>
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/littensy/charmed-icons?style=for-the-badge)](LICENSE.md)
-![GitHub Stars](https://img.shields.io/github/stars/littensy/charmed-icons?style=for-the-badge&logo=github)
+[![GitHub License](https://img.shields.io/github/license/jmesrje/zed-charmed-icons?style=for-the-badge)](LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/jmesrje/zed-charmed-icons?style=for-the-badge&logo=github)
 
 <img src="assets/files.png" alt="Files" width="512" />
 
@@ -33,7 +31,7 @@ You can find my icons on the [Zed Marketplace](https://zed.dev/extensions?query=
 }
 ```
 
-## 🙌 Requests
+## 🙌 Requests (original repository)
 
 If you have any icon requests, please [open an issue](https://github.com/littensy/charmed-icons/issues/new).
 
@@ -49,11 +47,11 @@ Charmed Icons draws inspiration from:
 ---
 
 <p align="center">
-Charmed Icons is released under the <a href="LICENSE.md">MIT License</a>.
+Charmed Icons is released under the <a href="LICENSE">MIT License</a>.
 </p>
 
 <div align="center">
 
-[![MIT License](https://img.shields.io/github/license/littensy/charmed-icons?style=for-the-badge)](LICENSE.md)
+[![MIT License](https://img.shields.io/github/license/jmesrje/zed-charmed-icons?style=for-the-badge)](LICENSE)
 
 </div>
