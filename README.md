@@ -11,8 +11,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/littensy/charmed-icons?style=for-the-badge&logo=github)
 
 <img src="assets/files.png" alt="Files" width="512" />
-<br><br>
-<img src="assets/folders.png" alt="Folders" width="512" />
 
 </div>
 
