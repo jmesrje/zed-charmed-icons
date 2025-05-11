@@ -5,7 +5,7 @@ on:
 
 jobs:
   homebrew:
-    name: Release Zed Extension
+    name: GitHub Release
     runs-on: ubuntu-latest
     steps:
       - name: GitHub
@@ -16,12 +16,3 @@ jobs:
           generate_release_notes: true
           body: |
             ## Changelog
-
-      - name: Zed Marketplace
-        uses: huacnlee/zed-extension-action@v1
-        with:
-          extension-name: charmed-icons
-          push-to: jmesrje/extensions
-        env:
-          # the personal access token should have "repo" & "workflow" scopes
-          COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}

@@ -1,0 +1,18 @@
+on:
+  push:
+    tags:
+      - "v*.*.*"
+  workflow_dispatch:
+
+jobs:
+  homebrew:
+    name: Zed Release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: huacnlee/zed-extension-action@v1
+        with:
+          extension-name: charmed-icons
+          push-to: jmesrje/extensions
+        env:
+          # the personal access token should have "repo" & "workflow" scopes
+          COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
