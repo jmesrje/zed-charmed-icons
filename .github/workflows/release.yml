@@ -8,7 +8,17 @@ jobs:
     name: Release Zed Extension
     runs-on: ubuntu-latest
     steps:
-      - uses: huacnlee/zed-extension-action@v1
+      - name: GitHub
+        uses: softprops/action-gh-release@v2.2.1
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: ${{ github.ref_name }}
+          generate_release_notes: true
+          body: |
+            ## Changelog
+
+      - name: Zed Marketplace
+        uses: huacnlee/zed-extension-action@v1
         with:
           extension-name: charmed-icons
           push-to: jmesrje/extensions
