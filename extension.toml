@@ -1,6 +1,6 @@
 id = "charmed-icons"
 name = "Charmed Icons"
-version = "0.8.1-fix.1"
+version = "0.8.1-fix.2"
 schema_version = 1
 authors = ["littensy", "jmesrje"]
 description = "💝 Charming icon theme for projects on Zed"
