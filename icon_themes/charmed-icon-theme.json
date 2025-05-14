@@ -7,8 +7,8 @@
             "name": "Charmed Icons",
             "appearance": "dark",
             "directory_icons": {
-                "collapsed": "./icons/folder.svg",
-                "expanded": "./icons/folder.svg"
+                "collapsed": "./icons/default/folder.svg",
+                "expanded": "./icons/default/folder.svg"
             },
             "file_stems": {
                 "eslint.config.js": "eslint",
@@ -451,6 +451,8 @@
                 "sss": "pcss"
             },
             "file_icons": {
+                "default": { "path": "./icons/default/file.svg" },
+                
                 "assembly": { "path": "./icons/assembly.svg" },
                 "astro": { "path": "./icons/astro.svg" },
                 "audio": { "path": "./icons/audio.svg" },
