@@ -12,7 +12,26 @@
 
 </div>
 
-## ⚙️ Usage
+## 📷 Previews
+
+<details>
+  <summary>🫐 Base</summary>
+  <img src="assets/base.webp"/>
+</details>
+<details>
+  <summary>🥥 Light</summary>
+  <img src="assets/light.webp"/>
+</details>
+<details>
+  <summary>🍇 Soft</summary>
+  <img src="assets/soft.webp"/>
+</details>
+<details>
+  <summary>🍓 Warm</summary>
+  <img src="assets/warm.webp"/>
+</details>
+
+## 🔧 Usage
 
 ### Marketplace
 
@@ -27,15 +46,25 @@ You can find my icons on the [Zed Marketplace](https://zed.dev/extensions?query=
 
 ```json
 {
-  "icon_theme": "Charmed Icons",
+    "icon_theme": "Charmed Icons"
 }
 ```
+
+## 🎨 Customization
+
+You can choose between four different icons sets: Base, Light, Soft, and Warm.
 
 ## 🙌 Requests (original repository)
 
 If you have any icon requests, please [open an issue](https://github.com/littensy/charmed-icons/issues/new).
 
-Ping me on Discord `@littensy` for a quicker response!!
+Ping me on Discord `@littensy` for a quicker response!
+
+## 🐛 Bugs
+
+If you encounter any bugs or issues with Charmed Icons, please [open an issue](https://github.com/jmesrje/zed-charmed-icons/issues/new).
+
+Ping me on Discord `@jmesrje` for a quicker response!
 
 ## ❤️ Gratitude
 

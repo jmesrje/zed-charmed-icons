@@ -1,0 +1,280 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
+  "name": "Charmed Icons",
+  "author": "littensy",
+  "themes": [
+    {
+      "name": "Soft Charmed Icons",
+      "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "dist/themes/soft/_folder.svg",
+        "expanded": "dist/themes/soft/_folder_open.svg"
+      },
+      "file_stems": {},
+      "file_suffixes": {},
+      "file_icons": {
+        "assembly": {
+          "path": "dist/themes/soft/icons/assembly.svg"
+        },
+        "astro": {
+          "path": "dist/themes/soft/icons/astro.svg"
+        },
+        "audio": {
+          "path": "dist/themes/soft/icons/audio.svg"
+        },
+        "binary": {
+          "path": "dist/themes/soft/icons/binary.svg"
+        },
+        "bun": {
+          "path": "dist/themes/soft/icons/bun.svg"
+        },
+        "c": {
+          "path": "dist/themes/soft/icons/c.svg"
+        },
+        "changelog": {
+          "path": "dist/themes/soft/icons/changelog.svg"
+        },
+        "code-of-conduct": {
+          "path": "dist/themes/soft/icons/code-of-conduct.svg"
+        },
+        "codeowners": {
+          "path": "dist/themes/soft/icons/codeowners.svg"
+        },
+        "config": {
+          "path": "dist/themes/soft/icons/config.svg"
+        },
+        "cpp": {
+          "path": "dist/themes/soft/icons/cpp.svg"
+        },
+        "cs": {
+          "path": "dist/themes/soft/icons/cs.svg"
+        },
+        "css": {
+          "path": "dist/themes/soft/icons/css.svg"
+        },
+        "css3": {
+          "path": "dist/themes/soft/icons/css3.svg"
+        },
+        "csv": {
+          "path": "dist/themes/soft/icons/csv.svg"
+        },
+        "dart": {
+          "path": "dist/themes/soft/icons/dart.svg"
+        },
+        "database": {
+          "path": "dist/themes/soft/icons/database.svg"
+        },
+        "docker": {
+          "path": "dist/themes/soft/icons/docker.svg"
+        },
+        "drizzle-orm": {
+          "path": "dist/themes/soft/icons/drizzle-orm.svg"
+        },
+        "eslint": {
+          "path": "dist/themes/soft/icons/eslint.svg"
+        },
+        "event": {
+          "path": "dist/themes/soft/icons/event.svg"
+        },
+        "font": {
+          "path": "dist/themes/soft/icons/font.svg"
+        },
+        "git": {
+          "path": "dist/themes/soft/icons/git.svg"
+        },
+        "gleam": {
+          "path": "dist/themes/soft/icons/gleam.svg"
+        },
+        "go-mod": {
+          "path": "dist/themes/soft/icons/go-mod.svg"
+        },
+        "go": {
+          "path": "dist/themes/soft/icons/go.svg"
+        },
+        "h": {
+          "path": "dist/themes/soft/icons/h.svg"
+        },
+        "hcl": {
+          "path": "dist/themes/soft/icons/hcl.svg"
+        },
+        "html": {
+          "path": "dist/themes/soft/icons/html.svg"
+        },
+        "image": {
+          "path": "dist/themes/soft/icons/image.svg"
+        },
+        "java": {
+          "path": "dist/themes/soft/icons/java.svg"
+        },
+        "javascript-config": {
+          "path": "dist/themes/soft/icons/javascript-config.svg"
+        },
+        "javascript": {
+          "path": "dist/themes/soft/icons/javascript.svg"
+        },
+        "json": {
+          "path": "dist/themes/soft/icons/json.svg"
+        },
+        "julia": {
+          "path": "dist/themes/soft/icons/julia.svg"
+        },
+        "kotlin": {
+          "path": "dist/themes/soft/icons/kotlin.svg"
+        },
+        "license": {
+          "path": "dist/themes/soft/icons/license.svg"
+        },
+        "lua": {
+          "path": "dist/themes/soft/icons/lua.svg"
+        },
+        "luau-config": {
+          "path": "dist/themes/soft/icons/luau-config.svg"
+        },
+        "luau-def": {
+          "path": "dist/themes/soft/icons/luau-def.svg"
+        },
+        "luau": {
+          "path": "dist/themes/soft/icons/luau.svg"
+        },
+        "markdown": {
+          "path": "dist/themes/soft/icons/markdown.svg"
+        },
+        "next": {
+          "path": "dist/themes/soft/icons/next.svg"
+        },
+        "nim": {
+          "path": "dist/themes/soft/icons/nim.svg"
+        },
+        "nix": {
+          "path": "dist/themes/soft/icons/nix.svg"
+        },
+        "node": {
+          "path": "dist/themes/soft/icons/node.svg"
+        },
+        "npm": {
+          "path": "dist/themes/soft/icons/npm.svg"
+        },
+        "nuxt": {
+          "path": "dist/themes/soft/icons/nuxt.svg"
+        },
+        "pcss": {
+          "path": "dist/themes/soft/icons/pcss.svg"
+        },
+        "php": {
+          "path": "dist/themes/soft/icons/php.svg"
+        },
+        "powershell": {
+          "path": "dist/themes/soft/icons/powershell.svg"
+        },
+        "python": {
+          "path": "dist/themes/soft/icons/python.svg"
+        },
+        "react-typescript": {
+          "path": "dist/themes/soft/icons/react-typescript.svg"
+        },
+        "react": {
+          "path": "dist/themes/soft/icons/react.svg"
+        },
+        "readme": {
+          "path": "dist/themes/soft/icons/readme.svg"
+        },
+        "roblox": {
+          "path": "dist/themes/soft/icons/roblox.svg"
+        },
+        "ruby": {
+          "path": "dist/themes/soft/icons/ruby.svg"
+        },
+        "rust": {
+          "path": "dist/themes/soft/icons/rust.svg"
+        },
+        "scala": {
+          "path": "dist/themes/soft/icons/scala.svg"
+        },
+        "scss": {
+          "path": "dist/themes/soft/icons/scss.svg"
+        },
+        "security": {
+          "path": "dist/themes/soft/icons/security.svg"
+        },
+        "shell": {
+          "path": "dist/themes/soft/icons/shell.svg"
+        },
+        "storybook": {
+          "path": "dist/themes/soft/icons/storybook.svg"
+        },
+        "svelte": {
+          "path": "dist/themes/soft/icons/svelte.svg"
+        },
+        "svg": {
+          "path": "dist/themes/soft/icons/svg.svg"
+        },
+        "swift": {
+          "path": "dist/themes/soft/icons/swift.svg"
+        },
+        "tailwind": {
+          "path": "dist/themes/soft/icons/tailwind.svg"
+        },
+        "terraform": {
+          "path": "dist/themes/soft/icons/terraform.svg"
+        },
+        "test-blue": {
+          "path": "dist/themes/soft/icons/test-blue.svg"
+        },
+        "test-teal": {
+          "path": "dist/themes/soft/icons/test-teal.svg"
+        },
+        "test-yellow": {
+          "path": "dist/themes/soft/icons/test-yellow.svg"
+        },
+        "text": {
+          "path": "dist/themes/soft/icons/text.svg"
+        },
+        "todo": {
+          "path": "dist/themes/soft/icons/todo.svg"
+        },
+        "toml": {
+          "path": "dist/themes/soft/icons/toml.svg"
+        },
+        "typescript-config": {
+          "path": "dist/themes/soft/icons/typescript-config.svg"
+        },
+        "typescript-def": {
+          "path": "dist/themes/soft/icons/typescript-def.svg"
+        },
+        "typescript": {
+          "path": "dist/themes/soft/icons/typescript.svg"
+        },
+        "video": {
+          "path": "dist/themes/soft/icons/video.svg"
+        },
+        "vite": {
+          "path": "dist/themes/soft/icons/vite.svg"
+        },
+        "vue": {
+          "path": "dist/themes/soft/icons/vue.svg"
+        },
+        "web-assembly": {
+          "path": "dist/themes/soft/icons/web-assembly.svg"
+        },
+        "xml": {
+          "path": "dist/themes/soft/icons/xml.svg"
+        },
+        "yaml": {
+          "path": "dist/themes/soft/icons/yaml.svg"
+        },
+        "yarn-lock": {
+          "path": "dist/themes/soft/icons/yarn-lock.svg"
+        },
+        "yarn": {
+          "path": "dist/themes/soft/icons/yarn.svg"
+        },
+        "zig": {
+          "path": "dist/themes/soft/icons/zig.svg"
+        },
+        "zip": {
+          "path": "dist/themes/soft/icons/zip.svg"
+        }
+      }
+    }
+  ]
+}
