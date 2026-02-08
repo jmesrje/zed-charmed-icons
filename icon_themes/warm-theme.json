@@ -1370,6 +1370,1808 @@
                 "zip": {
                     "path": "./icons/warm/zip.svg"
                 }
+            },
+            "named_directory_icons": {
+                "admin": {
+                    "collapsed": "./icons/warm/folder_admin.svg",
+                    "expanded": "./icons/warm/folder_admin_open.svg"
+                },
+                "admins": {
+                    "collapsed": "./icons/warm/folder_admin.svg",
+                    "expanded": "./icons/warm/folder_admin_open.svg"
+                },
+                "manager": {
+                    "collapsed": "./icons/warm/folder_admin.svg",
+                    "expanded": "./icons/warm/folder_admin_open.svg"
+                },
+                "managers": {
+                    "collapsed": "./icons/warm/folder_admin.svg",
+                    "expanded": "./icons/warm/folder_admin_open.svg"
+                },
+                "moderator": {
+                    "collapsed": "./icons/warm/folder_admin.svg",
+                    "expanded": "./icons/warm/folder_admin_open.svg"
+                },
+                "moderators": {
+                    "collapsed": "./icons/warm/folder_admin.svg",
+                    "expanded": "./icons/warm/folder_admin_open.svg"
+                },
+                "moderation": {
+                    "collapsed": "./icons/warm/folder_admin.svg",
+                    "expanded": "./icons/warm/folder_admin_open.svg"
+                },
+                "animation": {
+                    "collapsed": "./icons/warm/folder_animation.svg",
+                    "expanded": "./icons/warm/folder_animation_open.svg"
+                },
+                "animations": {
+                    "collapsed": "./icons/warm/folder_animation.svg",
+                    "expanded": "./icons/warm/folder_animation_open.svg"
+                },
+                "anim": {
+                    "collapsed": "./icons/warm/folder_animation.svg",
+                    "expanded": "./icons/warm/folder_animation_open.svg"
+                },
+                "anims": {
+                    "collapsed": "./icons/warm/folder_animation.svg",
+                    "expanded": "./icons/warm/folder_animation_open.svg"
+                },
+                "animated": {
+                    "collapsed": "./icons/warm/folder_animation.svg",
+                    "expanded": "./icons/warm/folder_animation_open.svg"
+                },
+                "audio": {
+                    "collapsed": "./icons/warm/folder_audio.svg",
+                    "expanded": "./icons/warm/folder_audio_open.svg"
+                },
+                "audios": {
+                    "collapsed": "./icons/warm/folder_audio.svg",
+                    "expanded": "./icons/warm/folder_audio_open.svg"
+                },
+                "sound": {
+                    "collapsed": "./icons/warm/folder_audio.svg",
+                    "expanded": "./icons/warm/folder_audio_open.svg"
+                },
+                "sounds": {
+                    "collapsed": "./icons/warm/folder_audio.svg",
+                    "expanded": "./icons/warm/folder_audio_open.svg"
+                },
+                "music": {
+                    "collapsed": "./icons/warm/folder_audio.svg",
+                    "expanded": "./icons/warm/folder_audio_open.svg"
+                },
+                "aud": {
+                    "collapsed": "./icons/warm/folder_audio.svg",
+                    "expanded": "./icons/warm/folder_audio_open.svg"
+                },
+                "auds": {
+                    "collapsed": "./icons/warm/folder_audio.svg",
+                    "expanded": "./icons/warm/folder_audio_open.svg"
+                },
+                "auth": {
+                    "collapsed": "./icons/warm/folder_auth.svg",
+                    "expanded": "./icons/warm/folder_auth_open.svg"
+                },
+                "authentication": {
+                    "collapsed": "./icons/warm/folder_auth.svg",
+                    "expanded": "./icons/warm/folder_auth_open.svg"
+                },
+                "auths": {
+                    "collapsed": "./icons/warm/folder_auth.svg",
+                    "expanded": "./icons/warm/folder_auth_open.svg"
+                },
+                "authenticator": {
+                    "collapsed": "./icons/warm/folder_auth.svg",
+                    "expanded": "./icons/warm/folder_auth_open.svg"
+                },
+                "authenticators": {
+                    "collapsed": "./icons/warm/folder_auth.svg",
+                    "expanded": "./icons/warm/folder_auth_open.svg"
+                },
+                "security": {
+                    "collapsed": "./icons/warm/folder_auth.svg",
+                    "expanded": "./icons/warm/folder_auth_open.svg"
+                },
+                "benchmark": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "benchmarks": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "bench": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "benches": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "benchs": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "performance": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "measure": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "measures": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "measurement": {
+                    "collapsed": "./icons/warm/folder_benchmark.svg",
+                    "expanded": "./icons/warm/folder_benchmark_open.svg"
+                },
+                "binaries": {
+                    "collapsed": "./icons/warm/folder_bin.svg",
+                    "expanded": "./icons/warm/folder_bin_open.svg"
+                },
+                "binary": {
+                    "collapsed": "./icons/warm/folder_bin.svg",
+                    "expanded": "./icons/warm/folder_bin_open.svg"
+                },
+                "builder": {
+                    "collapsed": "./icons/warm/folder_builder.svg",
+                    "expanded": "./icons/warm/folder_builder_open.svg"
+                },
+                "builders": {
+                    "collapsed": "./icons/warm/folder_builder.svg",
+                    "expanded": "./icons/warm/folder_builder_open.svg"
+                },
+                "factory": {
+                    "collapsed": "./icons/warm/folder_builder.svg",
+                    "expanded": "./icons/warm/folder_builder_open.svg"
+                },
+                "factories": {
+                    "collapsed": "./icons/warm/folder_builder.svg",
+                    "expanded": "./icons/warm/folder_builder_open.svg"
+                },
+                "constructor": {
+                    "collapsed": "./icons/warm/folder_builder.svg",
+                    "expanded": "./icons/warm/folder_builder_open.svg"
+                },
+                "constructors": {
+                    "collapsed": "./icons/warm/folder_builder.svg",
+                    "expanded": "./icons/warm/folder_builder_open.svg"
+                },
+                "camera": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "cameras": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "viewmodel": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "viewmodels": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "lighting": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "viewport": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "viewports": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "thumbnail": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                "thumbnails": {
+                    "collapsed": "./icons/warm/folder_camera.svg",
+                    "expanded": "./icons/warm/folder_camera_open.svg"
+                },
+                ".changesets": {
+                    "collapsed": "./icons/warm/folder_changesets.svg",
+                    "expanded": "./icons/warm/folder_changesets_open.svg"
+                },
+                "client": {
+                    "collapsed": "./icons/warm/folder_client.svg",
+                    "expanded": "./icons/warm/folder_client_open.svg"
+                },
+                "clients": {
+                    "collapsed": "./icons/warm/folder_client.svg",
+                    "expanded": "./icons/warm/folder_client_open.svg"
+                },
+                "frontend": {
+                    "collapsed": "./icons/warm/folder_client.svg",
+                    "expanded": "./icons/warm/folder_client_open.svg"
+                },
+                "frontends": {
+                    "collapsed": "./icons/warm/folder_client.svg",
+                    "expanded": "./icons/warm/folder_client_open.svg"
+                },
+                "pwa": {
+                    "collapsed": "./icons/warm/folder_client.svg",
+                    "expanded": "./icons/warm/folder_client_open.svg"
+                },
+                "app": {
+                    "collapsed": "./icons/warm/folder_client.svg",
+                    "expanded": "./icons/warm/folder_client_open.svg"
+                },
+                "apps": {
+                    "collapsed": "./icons/warm/folder_client.svg",
+                    "expanded": "./icons/warm/folder_client_open.svg"
+                },
+                "commands": {
+                    "collapsed": "./icons/warm/folder_commands.svg",
+                    "expanded": "./icons/warm/folder_commands_open.svg"
+                },
+                "command": {
+                    "collapsed": "./icons/warm/folder_commands.svg",
+                    "expanded": "./icons/warm/folder_commands_open.svg"
+                },
+                "cli": {
+                    "collapsed": "./icons/warm/folder_commands.svg",
+                    "expanded": "./icons/warm/folder_commands_open.svg"
+                },
+                "clis": {
+                    "collapsed": "./icons/warm/folder_commands.svg",
+                    "expanded": "./icons/warm/folder_commands_open.svg"
+                },
+                "cmd": {
+                    "collapsed": "./icons/warm/folder_commands.svg",
+                    "expanded": "./icons/warm/folder_commands_open.svg"
+                },
+                "cmds": {
+                    "collapsed": "./icons/warm/folder_commands.svg",
+                    "expanded": "./icons/warm/folder_commands_open.svg"
+                },
+                "component": {
+                    "collapsed": "./icons/warm/folder_component.svg",
+                    "expanded": "./icons/warm/folder_component_open.svg"
+                },
+                "components": {
+                    "collapsed": "./icons/warm/folder_component.svg",
+                    "expanded": "./icons/warm/folder_component_open.svg"
+                },
+                "widget": {
+                    "collapsed": "./icons/warm/folder_component.svg",
+                    "expanded": "./icons/warm/folder_component_open.svg"
+                },
+                "widgets": {
+                    "collapsed": "./icons/warm/folder_component.svg",
+                    "expanded": "./icons/warm/folder_component_open.svg"
+                },
+                "fragments": {
+                    "collapsed": "./icons/warm/folder_component.svg",
+                    "expanded": "./icons/warm/folder_component_open.svg"
+                },
+                "config": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "cfg": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "cfgs": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "conf": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "confs": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".config": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "configs": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "configuration": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "configurations": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "setting": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".setting": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "settings": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".settings": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "META-INF": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "option": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "options": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "cypress": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".cypress": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "debug": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "debugging": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".devcontainer": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".direnv": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".docker": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".fastlane": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".firebase": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".forgejo": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".gitlab": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".gradle": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".husky": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".idea": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".kubernetes": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".k8s": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".next": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".renovate": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".turbo": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".vercel": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".now": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                ".wxt": {
+                    "collapsed": "./icons/warm/folder_config.svg",
+                    "expanded": "./icons/warm/folder_config_open.svg"
+                },
+                "connection": {
+                    "collapsed": "./icons/warm/folder_connection.svg",
+                    "expanded": "./icons/warm/folder_connection_open.svg"
+                },
+                "api": {
+                    "collapsed": "./icons/warm/folder_connection.svg",
+                    "expanded": "./icons/warm/folder_connection_open.svg"
+                },
+                "apis": {
+                    "collapsed": "./icons/warm/folder_connection.svg",
+                    "expanded": "./icons/warm/folder_connection_open.svg"
+                },
+                "connections": {
+                    "collapsed": "./icons/warm/folder_connection.svg",
+                    "expanded": "./icons/warm/folder_connection_open.svg"
+                },
+                "integration": {
+                    "collapsed": "./icons/warm/folder_connection.svg",
+                    "expanded": "./icons/warm/folder_connection_open.svg"
+                },
+                "integrations": {
+                    "collapsed": "./icons/warm/folder_connection.svg",
+                    "expanded": "./icons/warm/folder_connection_open.svg"
+                },
+                "constant": {
+                    "collapsed": "./icons/warm/folder_constant.svg",
+                    "expanded": "./icons/warm/folder_constant_open.svg"
+                },
+                "constants": {
+                    "collapsed": "./icons/warm/folder_constant.svg",
+                    "expanded": "./icons/warm/folder_constant_open.svg"
+                },
+                "const": {
+                    "collapsed": "./icons/warm/folder_constant.svg",
+                    "expanded": "./icons/warm/folder_constant_open.svg"
+                },
+                "enum": {
+                    "collapsed": "./icons/warm/folder_constant.svg",
+                    "expanded": "./icons/warm/folder_constant_open.svg"
+                },
+                "enums": {
+                    "collapsed": "./icons/warm/folder_constant.svg",
+                    "expanded": "./icons/warm/folder_constant_open.svg"
+                },
+                "content": {
+                    "collapsed": "./icons/warm/folder_content.svg",
+                    "expanded": "./icons/warm/folder_content_open.svg"
+                },
+                "contents": {
+                    "collapsed": "./icons/warm/folder_content.svg",
+                    "expanded": "./icons/warm/folder_content_open.svg"
+                },
+                "storage": {
+                    "collapsed": "./icons/warm/folder_content.svg",
+                    "expanded": "./icons/warm/folder_content_open.svg"
+                },
+                "context": {
+                    "collapsed": "./icons/warm/folder_context.svg",
+                    "expanded": "./icons/warm/folder_context_open.svg"
+                },
+                "contexts": {
+                    "collapsed": "./icons/warm/folder_context.svg",
+                    "expanded": "./icons/warm/folder_context_open.svg"
+                },
+                "coverage": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "audit": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "audits": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                ".nyc-output": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                ".nyc_output": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "e2e": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "it": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "integration-test": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "integration-tests": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "__integration-test__": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "__integration-tests__": {
+                    "collapsed": "./icons/warm/folder_coverage.svg",
+                    "expanded": "./icons/warm/folder_coverage_open.svg"
+                },
+                "database": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "databases": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "db": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "sql": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "data": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "_data": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "datastore": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "datastores": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "save": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "saves": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "playerdata": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "player-data": {
+                    "collapsed": "./icons/warm/folder_database.svg",
+                    "expanded": "./icons/warm/folder_database_open.svg"
+                },
+                "bin": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                "bins": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                "dist": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                "dist-newstyle": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                "out": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                "build": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                "release": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                ".output": {
+                    "collapsed": "./icons/warm/folder_dist.svg",
+                    "expanded": "./icons/warm/folder_dist_open.svg"
+                },
+                "docs": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "_post": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "_posts": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "doc": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "document": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "documents": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "documentation": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "post": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "posts": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "article": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "articles": {
+                    "collapsed": "./icons/warm/folder_docs.svg",
+                    "expanded": "./icons/warm/folder_docs_open.svg"
+                },
+                "effects": {
+                    "collapsed": "./icons/warm/folder_effects.svg",
+                    "expanded": "./icons/warm/folder_effects_open.svg"
+                },
+                "vfx": {
+                    "collapsed": "./icons/warm/folder_effects.svg",
+                    "expanded": "./icons/warm/folder_effects_open.svg"
+                },
+                "particles": {
+                    "collapsed": "./icons/warm/folder_effects.svg",
+                    "expanded": "./icons/warm/folder_effects_open.svg"
+                },
+                "error": {
+                    "collapsed": "./icons/warm/folder_error.svg",
+                    "expanded": "./icons/warm/folder_error_open.svg"
+                },
+                "errors": {
+                    "collapsed": "./icons/warm/folder_error.svg",
+                    "expanded": "./icons/warm/folder_error_open.svg"
+                },
+                "exception": {
+                    "collapsed": "./icons/warm/folder_error.svg",
+                    "expanded": "./icons/warm/folder_error_open.svg"
+                },
+                "exceptions": {
+                    "collapsed": "./icons/warm/folder_error.svg",
+                    "expanded": "./icons/warm/folder_error_open.svg"
+                },
+                "issue": {
+                    "collapsed": "./icons/warm/folder_error.svg",
+                    "expanded": "./icons/warm/folder_error_open.svg"
+                },
+                "issues": {
+                    "collapsed": "./icons/warm/folder_error.svg",
+                    "expanded": "./icons/warm/folder_error_open.svg"
+                },
+                "event": {
+                    "collapsed": "./icons/warm/folder_event.svg",
+                    "expanded": "./icons/warm/folder_event_open.svg"
+                },
+                "events": {
+                    "collapsed": "./icons/warm/folder_event.svg",
+                    "expanded": "./icons/warm/folder_event_open.svg"
+                },
+                "remote": {
+                    "collapsed": "./icons/warm/folder_event.svg",
+                    "expanded": "./icons/warm/folder_event_open.svg"
+                },
+                "remotes": {
+                    "collapsed": "./icons/warm/folder_event.svg",
+                    "expanded": "./icons/warm/folder_event_open.svg"
+                },
+                "fonts": {
+                    "collapsed": "./icons/warm/folder_fonts.svg",
+                    "expanded": "./icons/warm/folder_fonts_open.svg"
+                },
+                "font": {
+                    "collapsed": "./icons/warm/folder_fonts.svg",
+                    "expanded": "./icons/warm/folder_fonts_open.svg"
+                },
+                "typeface": {
+                    "collapsed": "./icons/warm/folder_fonts.svg",
+                    "expanded": "./icons/warm/folder_fonts_open.svg"
+                },
+                "typefaces": {
+                    "collapsed": "./icons/warm/folder_fonts.svg",
+                    "expanded": "./icons/warm/folder_fonts_open.svg"
+                },
+                "function": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "functions": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "func": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "funcs": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "lambda": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "lambdas": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "logic": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "math": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "maths": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "calc": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "calcs": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "calculation": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "calculations": {
+                    "collapsed": "./icons/warm/folder_function.svg",
+                    "expanded": "./icons/warm/folder_function_open.svg"
+                },
+                "github": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                ".github": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                ".git": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                "patches": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                "githooks": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                ".githooks": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                "submodules": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                ".submodules": {
+                    "collapsed": "./icons/warm/folder_github.svg",
+                    "expanded": "./icons/warm/folder_github_open.svg"
+                },
+                "hooks": {
+                    "collapsed": "./icons/warm/folder_hooks.svg",
+                    "expanded": "./icons/warm/folder_hooks_open.svg"
+                },
+                "hook": {
+                    "collapsed": "./icons/warm/folder_hooks.svg",
+                    "expanded": "./icons/warm/folder_hooks_open.svg"
+                },
+                "composables": {
+                    "collapsed": "./icons/warm/folder_hooks.svg",
+                    "expanded": "./icons/warm/folder_hooks_open.svg"
+                },
+                "composable": {
+                    "collapsed": "./icons/warm/folder_hooks.svg",
+                    "expanded": "./icons/warm/folder_hooks_open.svg"
+                },
+                "asset": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "assets": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "image": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "_images": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "_image": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "_imgs": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "_img": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "images": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "imgs": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "img": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "icons": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "icon": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "icos": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "ico": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "figures": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "figure": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "figs": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "fig": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "screenshot": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "screenshots": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "screengrab": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "screengrabs": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "pic": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "pics": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "picture": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "pictures": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "photo": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "photos": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "photograph": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "photographs": {
+                    "collapsed": "./icons/warm/folder_image.svg",
+                    "expanded": "./icons/warm/folder_image_open.svg"
+                },
+                "input": {
+                    "collapsed": "./icons/warm/folder_input.svg",
+                    "expanded": "./icons/warm/folder_input_open.svg"
+                },
+                "inputs": {
+                    "collapsed": "./icons/warm/folder_input.svg",
+                    "expanded": "./icons/warm/folder_input_open.svg"
+                },
+                "device": {
+                    "collapsed": "./icons/warm/folder_input.svg",
+                    "expanded": "./icons/warm/folder_input_open.svg"
+                },
+                "devices": {
+                    "collapsed": "./icons/warm/folder_input.svg",
+                    "expanded": "./icons/warm/folder_input_open.svg"
+                },
+                "sensor": {
+                    "collapsed": "./icons/warm/folder_input.svg",
+                    "expanded": "./icons/warm/folder_input_open.svg"
+                },
+                "sensors": {
+                    "collapsed": "./icons/warm/folder_input.svg",
+                    "expanded": "./icons/warm/folder_input_open.svg"
+                },
+                "javascript": {
+                    "collapsed": "./icons/warm/folder_javascript.svg",
+                    "expanded": "./icons/warm/folder_javascript_open.svg"
+                },
+                "js": {
+                    "collapsed": "./icons/warm/folder_javascript.svg",
+                    "expanded": "./icons/warm/folder_javascript_open.svg"
+                },
+                "cjs": {
+                    "collapsed": "./icons/warm/folder_javascript.svg",
+                    "expanded": "./icons/warm/folder_javascript_open.svg"
+                },
+                "esm": {
+                    "collapsed": "./icons/warm/folder_javascript.svg",
+                    "expanded": "./icons/warm/folder_javascript_open.svg"
+                },
+                "json": {
+                    "collapsed": "./icons/warm/folder_json.svg",
+                    "expanded": "./icons/warm/folder_json_open.svg"
+                },
+                "schema": {
+                    "collapsed": "./icons/warm/folder_json.svg",
+                    "expanded": "./icons/warm/folder_json_open.svg"
+                },
+                "schemas": {
+                    "collapsed": "./icons/warm/folder_json.svg",
+                    "expanded": "./icons/warm/folder_json_open.svg"
+                },
+                "layout": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "layouts": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "_layouts": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "ui": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "uis": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "interface": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "screen": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "screens": {
+                    "collapsed": "./icons/warm/folder_layout.svg",
+                    "expanded": "./icons/warm/folder_layout_open.svg"
+                },
+                "lib": {
+                    "collapsed": "./icons/warm/folder_lib.svg",
+                    "expanded": "./icons/warm/folder_lib_open.svg"
+                },
+                "libs": {
+                    "collapsed": "./icons/warm/folder_lib.svg",
+                    "expanded": "./icons/warm/folder_lib_open.svg"
+                },
+                "library": {
+                    "collapsed": "./icons/warm/folder_lib.svg",
+                    "expanded": "./icons/warm/folder_lib_open.svg"
+                },
+                "libraries": {
+                    "collapsed": "./icons/warm/folder_lib.svg",
+                    "expanded": "./icons/warm/folder_lib_open.svg"
+                },
+                "luau": {
+                    "collapsed": "./icons/warm/folder_luau.svg",
+                    "expanded": "./icons/warm/folder_luau_open.svg"
+                },
+                "lute": {
+                    "collapsed": "./icons/warm/folder_luau.svg",
+                    "expanded": "./icons/warm/folder_luau_open.svg"
+                },
+                ".lute": {
+                    "collapsed": "./icons/warm/folder_luau.svg",
+                    "expanded": "./icons/warm/folder_luau_open.svg"
+                },
+                ".pesde": {
+                    "collapsed": "./icons/warm/folder_luau.svg",
+                    "expanded": "./icons/warm/folder_luau_open.svg"
+                },
+                "lune": {
+                    "collapsed": "./icons/warm/folder_lune.svg",
+                    "expanded": "./icons/warm/folder_lune_open.svg"
+                },
+                ".lune": {
+                    "collapsed": "./icons/warm/folder_lune.svg",
+                    "expanded": "./icons/warm/folder_lune_open.svg"
+                },
+                "marketing": {
+                    "collapsed": "./icons/warm/folder_marketing.svg",
+                    "expanded": "./icons/warm/folder_marketing_open.svg"
+                },
+                "product": {
+                    "collapsed": "./icons/warm/folder_marketing.svg",
+                    "expanded": "./icons/warm/folder_marketing_open.svg"
+                },
+                "products": {
+                    "collapsed": "./icons/warm/folder_marketing.svg",
+                    "expanded": "./icons/warm/folder_marketing_open.svg"
+                },
+                "passes": {
+                    "collapsed": "./icons/warm/folder_marketing.svg",
+                    "expanded": "./icons/warm/folder_marketing_open.svg"
+                },
+                "gamepasses": {
+                    "collapsed": "./icons/warm/folder_marketing.svg",
+                    "expanded": "./icons/warm/folder_marketing_open.svg"
+                },
+                "game-passes": {
+                    "collapsed": "./icons/warm/folder_marketing.svg",
+                    "expanded": "./icons/warm/folder_marketing_open.svg"
+                },
+                "middleware": {
+                    "collapsed": "./icons/warm/folder_middleware.svg",
+                    "expanded": "./icons/warm/folder_middleware_open.svg"
+                },
+                "middlewares": {
+                    "collapsed": "./icons/warm/folder_middleware.svg",
+                    "expanded": "./icons/warm/folder_middleware_open.svg"
+                },
+                "core": {
+                    "collapsed": "./icons/warm/folder_middleware.svg",
+                    "expanded": "./icons/warm/folder_middleware_open.svg"
+                },
+                "system": {
+                    "collapsed": "./icons/warm/folder_middleware.svg",
+                    "expanded": "./icons/warm/folder_middleware_open.svg"
+                },
+                "systems": {
+                    "collapsed": "./icons/warm/folder_middleware.svg",
+                    "expanded": "./icons/warm/folder_middleware_open.svg"
+                },
+                "model": {
+                    "collapsed": "./icons/warm/folder_model.svg",
+                    "expanded": "./icons/warm/folder_model_open.svg"
+                },
+                "models": {
+                    "collapsed": "./icons/warm/folder_model.svg",
+                    "expanded": "./icons/warm/folder_model_open.svg"
+                },
+                "redux": {
+                    "collapsed": "./icons/warm/folder_model.svg",
+                    "expanded": "./icons/warm/folder_model_open.svg"
+                },
+                "rodux": {
+                    "collapsed": "./icons/warm/folder_model.svg",
+                    "expanded": "./icons/warm/folder_model_open.svg"
+                },
+                "reflex": {
+                    "collapsed": "./icons/warm/folder_model.svg",
+                    "expanded": "./icons/warm/folder_model_open.svg"
+                },
+                "module": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "modules": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "node_modules": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "mock": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "mocks": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "__mocks__": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "fixture": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "fixtures": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "__fixtures__": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "devpackages": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "serverpackages": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "vendor": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "vendors": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "plugin": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "plugins": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "_plugins": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "lune_packages": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "luau_packages": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "mod": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "mods": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "modding": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "extension": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "extensions": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "addon": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "addons": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "shared": {
+                    "collapsed": "./icons/warm/folder_module.svg",
+                    "expanded": "./icons/warm/folder_module_open.svg"
+                },
+                "nuxt": {
+                    "collapsed": "./icons/warm/folder_nuxt.svg",
+                    "expanded": "./icons/warm/folder_nuxt_open.svg"
+                },
+                ".nuxt": {
+                    "collapsed": "./icons/warm/folder_nuxt.svg",
+                    "expanded": "./icons/warm/folder_nuxt_open.svg"
+                },
+                "package": {
+                    "collapsed": "./icons/warm/folder_package.svg",
+                    "expanded": "./icons/warm/folder_package_open.svg"
+                },
+                "packages": {
+                    "collapsed": "./icons/warm/folder_package.svg",
+                    "expanded": "./icons/warm/folder_package_open.svg"
+                },
+                ".cargo": {
+                    "collapsed": "./icons/warm/folder_package.svg",
+                    "expanded": "./icons/warm/folder_package_open.svg"
+                },
+                "pkg": {
+                    "collapsed": "./icons/warm/folder_package.svg",
+                    "expanded": "./icons/warm/folder_package_open.svg"
+                },
+                "pkgs": {
+                    "collapsed": "./icons/warm/folder_package.svg",
+                    "expanded": "./icons/warm/folder_package_open.svg"
+                },
+                "crate": {
+                    "collapsed": "./icons/warm/folder_package.svg",
+                    "expanded": "./icons/warm/folder_package_open.svg"
+                },
+                "crates": {
+                    "collapsed": "./icons/warm/folder_package.svg",
+                    "expanded": "./icons/warm/folder_package_open.svg"
+                },
+                "page": {
+                    "collapsed": "./icons/warm/folder_page.svg",
+                    "expanded": "./icons/warm/folder_page_open.svg"
+                },
+                "pages": {
+                    "collapsed": "./icons/warm/folder_page.svg",
+                    "expanded": "./icons/warm/folder_page_open.svg"
+                },
+                "view": {
+                    "collapsed": "./icons/warm/folder_page.svg",
+                    "expanded": "./icons/warm/folder_page_open.svg"
+                },
+                "views": {
+                    "collapsed": "./icons/warm/folder_page.svg",
+                    "expanded": "./icons/warm/folder_page_open.svg"
+                },
+                "html": {
+                    "collapsed": "./icons/warm/folder_page.svg",
+                    "expanded": "./icons/warm/folder_page_open.svg"
+                },
+                "public_html": {
+                    "collapsed": "./icons/warm/folder_page.svg",
+                    "expanded": "./icons/warm/folder_page_open.svg"
+                },
+                "provider": {
+                    "collapsed": "./icons/warm/folder_provider.svg",
+                    "expanded": "./icons/warm/folder_provider_open.svg"
+                },
+                "providers": {
+                    "collapsed": "./icons/warm/folder_provider.svg",
+                    "expanded": "./icons/warm/folder_provider_open.svg"
+                },
+                "roblox": {
+                    "collapsed": "./icons/warm/folder_roblox.svg",
+                    "expanded": "./icons/warm/folder_roblox_open.svg"
+                },
+                "roblox_packages": {
+                    "collapsed": "./icons/warm/folder_roblox.svg",
+                    "expanded": "./icons/warm/folder_roblox_open.svg"
+                },
+                "place": {
+                    "collapsed": "./icons/warm/folder_roblox.svg",
+                    "expanded": "./icons/warm/folder_roblox_open.svg"
+                },
+                "places": {
+                    "collapsed": "./icons/warm/folder_roblox.svg",
+                    "expanded": "./icons/warm/folder_roblox_open.svg"
+                },
+                "universe": {
+                    "collapsed": "./icons/warm/folder_roblox.svg",
+                    "expanded": "./icons/warm/folder_roblox_open.svg"
+                },
+                "universes": {
+                    "collapsed": "./icons/warm/folder_roblox.svg",
+                    "expanded": "./icons/warm/folder_roblox_open.svg"
+                },
+                "routes": {
+                    "collapsed": "./icons/warm/folder_routes.svg",
+                    "expanded": "./icons/warm/folder_routes_open.svg"
+                },
+                "route": {
+                    "collapsed": "./icons/warm/folder_routes.svg",
+                    "expanded": "./icons/warm/folder_routes_open.svg"
+                },
+                "router": {
+                    "collapsed": "./icons/warm/folder_routes.svg",
+                    "expanded": "./icons/warm/folder_routes_open.svg"
+                },
+                "routers": {
+                    "collapsed": "./icons/warm/folder_routes.svg",
+                    "expanded": "./icons/warm/folder_routes_open.svg"
+                },
+                "routing": {
+                    "collapsed": "./icons/warm/folder_routes.svg",
+                    "expanded": "./icons/warm/folder_routes_open.svg"
+                },
+                "script": {
+                    "collapsed": "./icons/warm/folder_script.svg",
+                    "expanded": "./icons/warm/folder_script_open.svg"
+                },
+                "scripts": {
+                    "collapsed": "./icons/warm/folder_script.svg",
+                    "expanded": "./icons/warm/folder_script_open.svg"
+                },
+                "scripting": {
+                    "collapsed": "./icons/warm/folder_script.svg",
+                    "expanded": "./icons/warm/folder_script_open.svg"
+                },
+                "server": {
+                    "collapsed": "./icons/warm/folder_server.svg",
+                    "expanded": "./icons/warm/folder_server_open.svg"
+                },
+                "servers": {
+                    "collapsed": "./icons/warm/folder_server.svg",
+                    "expanded": "./icons/warm/folder_server_open.svg"
+                },
+                "backend": {
+                    "collapsed": "./icons/warm/folder_server.svg",
+                    "expanded": "./icons/warm/folder_server_open.svg"
+                },
+                "service": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "services": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "controller": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "controllers": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "handler": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "handlers": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "actor": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "actors": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "workflow": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "workflows": {
+                    "collapsed": "./icons/warm/folder_service.svg",
+                    "expanded": "./icons/warm/folder_service_open.svg"
+                },
+                "source": {
+                    "collapsed": "./icons/warm/folder_source.svg",
+                    "expanded": "./icons/warm/folder_source_open.svg"
+                },
+                "sources": {
+                    "collapsed": "./icons/warm/folder_source.svg",
+                    "expanded": "./icons/warm/folder_source_open.svg"
+                },
+                "src": {
+                    "collapsed": "./icons/warm/folder_source.svg",
+                    "expanded": "./icons/warm/folder_source_open.svg"
+                },
+                "srcs": {
+                    "collapsed": "./icons/warm/folder_source.svg",
+                    "expanded": "./icons/warm/folder_source_open.svg"
+                },
+                "code": {
+                    "collapsed": "./icons/warm/folder_source.svg",
+                    "expanded": "./icons/warm/folder_source_open.svg"
+                },
+                "src-tauri": {
+                    "collapsed": "./icons/warm/folder_source.svg",
+                    "expanded": "./icons/warm/folder_source_open.svg"
+                },
+                "storybook": {
+                    "collapsed": "./icons/warm/folder_storybook.svg",
+                    "expanded": "./icons/warm/folder_storybook_open.svg"
+                },
+                ".storybook": {
+                    "collapsed": "./icons/warm/folder_storybook.svg",
+                    "expanded": "./icons/warm/folder_storybook_open.svg"
+                },
+                "stories": {
+                    "collapsed": "./icons/warm/folder_storybook.svg",
+                    "expanded": "./icons/warm/folder_storybook_open.svg"
+                },
+                "__stories__": {
+                    "collapsed": "./icons/warm/folder_storybook.svg",
+                    "expanded": "./icons/warm/folder_storybook_open.svg"
+                },
+                "styles": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "sass": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "_sass": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "scss": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "_scss": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "css": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "stylesheet": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "stylesheets": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "style": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "theme": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "themes": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "palette": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "palettes": {
+                    "collapsed": "./icons/warm/folder_styles.svg",
+                    "expanded": "./icons/warm/folder_styles_open.svg"
+                },
+                "svg": {
+                    "collapsed": "./icons/warm/folder_svg.svg",
+                    "expanded": "./icons/warm/folder_svg_open.svg"
+                },
+                "svgs": {
+                    "collapsed": "./icons/warm/folder_svg.svg",
+                    "expanded": "./icons/warm/folder_svg_open.svg"
+                },
+                "temp": {
+                    "collapsed": "./icons/warm/folder_temp.svg",
+                    "expanded": "./icons/warm/folder_temp_open.svg"
+                },
+                ".temp": {
+                    "collapsed": "./icons/warm/folder_temp.svg",
+                    "expanded": "./icons/warm/folder_temp_open.svg"
+                },
+                "tmp": {
+                    "collapsed": "./icons/warm/folder_temp.svg",
+                    "expanded": "./icons/warm/folder_temp_open.svg"
+                },
+                ".tmp": {
+                    "collapsed": "./icons/warm/folder_temp.svg",
+                    "expanded": "./icons/warm/folder_temp_open.svg"
+                },
+                "cached": {
+                    "collapsed": "./icons/warm/folder_temp.svg",
+                    "expanded": "./icons/warm/folder_temp_open.svg"
+                },
+                "cache": {
+                    "collapsed": "./icons/warm/folder_temp.svg",
+                    "expanded": "./icons/warm/folder_temp_open.svg"
+                },
+                ".cache": {
+                    "collapsed": "./icons/warm/folder_temp.svg",
+                    "expanded": "./icons/warm/folder_temp_open.svg"
+                },
+                "template": {
+                    "collapsed": "./icons/warm/folder_template.svg",
+                    "expanded": "./icons/warm/folder_template_open.svg"
+                },
+                "templates": {
+                    "collapsed": "./icons/warm/folder_template.svg",
+                    "expanded": "./icons/warm/folder_template_open.svg"
+                },
+                "test": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "tests": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "testing": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "__tests__": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "__snapshots__": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "__test__": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "spec": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "specs": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "ci": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                ".ci": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "testroot": {
+                    "collapsed": "./icons/warm/folder_test.svg",
+                    "expanded": "./icons/warm/folder_test_open.svg"
+                },
+                "types": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                "@types": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                "typings": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                "interfaces": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                "include": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                "includes": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                "typedefs": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                ".typedefs": {
+                    "collapsed": "./icons/warm/folder_types.svg",
+                    "expanded": "./icons/warm/folder_types_open.svg"
+                },
+                "typescript": {
+                    "collapsed": "./icons/warm/folder_typescript.svg",
+                    "expanded": "./icons/warm/folder_typescript_open.svg"
+                },
+                "ts": {
+                    "collapsed": "./icons/warm/folder_typescript.svg",
+                    "expanded": "./icons/warm/folder_typescript_open.svg"
+                },
+                "tsx": {
+                    "collapsed": "./icons/warm/folder_typescript.svg",
+                    "expanded": "./icons/warm/folder_typescript_open.svg"
+                },
+                "util": {
+                    "collapsed": "./icons/warm/folder_util.svg",
+                    "expanded": "./icons/warm/folder_util_open.svg"
+                },
+                "utils": {
+                    "collapsed": "./icons/warm/folder_util.svg",
+                    "expanded": "./icons/warm/folder_util_open.svg"
+                },
+                "utility": {
+                    "collapsed": "./icons/warm/folder_util.svg",
+                    "expanded": "./icons/warm/folder_util_open.svg"
+                },
+                "utilities": {
+                    "collapsed": "./icons/warm/folder_util.svg",
+                    "expanded": "./icons/warm/folder_util_open.svg"
+                },
+                "helper": {
+                    "collapsed": "./icons/warm/folder_util.svg",
+                    "expanded": "./icons/warm/folder_util_open.svg"
+                },
+                "helpers": {
+                    "collapsed": "./icons/warm/folder_util.svg",
+                    "expanded": "./icons/warm/folder_util_open.svg"
+                },
+                "video": {
+                    "collapsed": "./icons/warm/folder_video.svg",
+                    "expanded": "./icons/warm/folder_video_open.svg"
+                },
+                "videos": {
+                    "collapsed": "./icons/warm/folder_video.svg",
+                    "expanded": "./icons/warm/folder_video_open.svg"
+                },
+                "vid": {
+                    "collapsed": "./icons/warm/folder_video.svg",
+                    "expanded": "./icons/warm/folder_video_open.svg"
+                },
+                "vids": {
+                    "collapsed": "./icons/warm/folder_video.svg",
+                    "expanded": "./icons/warm/folder_video_open.svg"
+                },
+                "movie": {
+                    "collapsed": "./icons/warm/folder_video.svg",
+                    "expanded": "./icons/warm/folder_video_open.svg"
+                },
+                "movies": {
+                    "collapsed": "./icons/warm/folder_video.svg",
+                    "expanded": "./icons/warm/folder_video_open.svg"
+                },
+                ".vscode": {
+                    "collapsed": "./icons/warm/folder_vscode.svg",
+                    "expanded": "./icons/warm/folder_vscode_open.svg"
+                },
+                ".vscode-test": {
+                    "collapsed": "./icons/warm/folder_vscode.svg",
+                    "expanded": "./icons/warm/folder_vscode_open.svg"
+                },
+                "web": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "i18n": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "internationalization": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "lang": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "langs": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "language": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "languages": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "locale": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "locales": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "l10n": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "localization": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "translation": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "translate": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "translations": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                ".tx": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "_site": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "public": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "www": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "wwwroot": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "website": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "site": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "browser": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "browsers": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                "static": {
+                    "collapsed": "./icons/warm/folder_web.svg",
+                    "expanded": "./icons/warm/folder_web_open.svg"
+                },
+                ".yarn": {
+                    "collapsed": "./icons/warm/folder_yarn.svg",
+                    "expanded": "./icons/warm/folder_yarn_open.svg"
+                }
             }
         }
     ]
