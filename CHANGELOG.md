@@ -5,6 +5,17 @@ All notable changes to the "charmed-icons" extension will be documented in this 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- Add `ara` file icon for the Ara language (`.ara` sources)
+- Add `build` file icon for `build.ara` build programs
+- Add `aon` file icon for Ara Object Notation data files
+- Add `araba` file icon for `araba.aon` package/workspace manifests
+- Add `version` file icon for `version.aon` toolchain identity files
+- Add `araba-lock` file icon for generated `araba.lock` lockfiles
+
 ## [0.7.1] - 2025-05-06
 
 - Add aliases for `spec.x` and `test.x` files

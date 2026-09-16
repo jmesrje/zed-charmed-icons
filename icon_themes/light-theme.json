@@ -11,6 +11,10 @@
                 "expanded": "./icons/light/_folder_open.svg"
             },
             "file_stems": {
+                "araba.aon": "araba",
+                "araba.lock": "araba-lock",
+                "version.aon": "version",
+                "build.ara": "build",
                 "astro.config.js": "astro-config",
                 "astro.config.mjs": "astro-config",
                 "astro.config.cjs": "astro-config",
@@ -498,6 +502,8 @@
                 "yarn.config.cjs": "yarn"
             },
             "file_suffixes": {
+                "aon": "aon",
+                "ara": "ara",
                 "asm": "assembly",
                 "a51": "assembly",
                 "inc": "assembly",
@@ -1021,6 +1027,24 @@
             "file_icons": {
                 "default": {
                     "path": "./icons/light/_file.svg"
+                },
+                "ara": {
+                    "path": "./icons/light/ara.svg"
+                },
+                "build": {
+                    "path": "./icons/light/build.svg"
+                },
+                "aon": {
+                    "path": "./icons/light/aon.svg"
+                },
+                "araba": {
+                    "path": "./icons/light/araba.svg"
+                },
+                "version": {
+                    "path": "./icons/light/version.svg"
+                },
+                "araba-lock": {
+                    "path": "./icons/light/araba-lock.svg"
                 },
                 "assembly": {
                     "path": "./icons/light/assembly.svg"
